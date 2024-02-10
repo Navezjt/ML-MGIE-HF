@@ -19,3 +19,5 @@ https://mllm-ie.github.io/
 
 ### 🏢 Sponsor
 https://replicate.com
+### 🖼 NAVEZJT
+https://github.com/Navezjt/ml-mgie
